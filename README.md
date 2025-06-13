@@ -33,3 +33,5 @@ A GUI-based Python application to export Tableau dashboards, crop specific secti
  ┗ 📂screenshots/
     ┗ 📷 example_crop_preview.png
 ```
+
+👉 Demo/Portfolio: [bharathkumarkammari.com/portfolio.html](https://bharathkumarkammari.com/portfolio.html)
